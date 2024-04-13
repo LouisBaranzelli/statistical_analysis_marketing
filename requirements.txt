@@ -1,0 +1,8 @@
+pandas==2.0.2
+fastparquet
+loguru
+matplotlib==3.3.0
+seaborn
+tqdm
+scipy
+sklearn
